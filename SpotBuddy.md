@@ -1,1 +1,0 @@
-This is an preliminary project where I am studying the Spotify API Recommendations. This folder contains a Streamlit based web app that takes song name and artist name as user input and fetches a list of recommended songs using Spotify API.
